@@ -34,11 +34,13 @@ I'm a passionate full-stack developer with expertise in **Python, Django, React.
   <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### Frontend & Styling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,angular,html" />
 </p>
 
 ### Databases & Tools
