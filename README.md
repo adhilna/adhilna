@@ -45,7 +45,7 @@ I'm a passionate full-stack developer with expertise in **Python, Django, React.
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,linux,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,linux,docker,nginx,aws,rds,s3bucket" />
 </p>
 
 ### Currently Learning
