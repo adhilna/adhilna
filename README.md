@@ -53,8 +53,16 @@ My expertise has evolved from monolithic Django apps to distributed systems invo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhilna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilna&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhilna&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&include_all_commits=true&count_private=true" alt="Adhil's GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilna&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=false" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhilna&theme=transparent&hide_border=false&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
 </div>
 
 ---
